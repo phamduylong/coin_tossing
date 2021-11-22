@@ -24,4 +24,4 @@ This is a web application created with HTML, CSS and JavaScript (VanillaJs). Thi
 The application should be easy enough to use for everybody. Choose whether you want a head or tail as your guess, toss the coin and see the result 😉.
 Any contribution/feedback will be highly appreciated. For contribution/feedback please email me at longphamduy2002@gmail.com
 
-<em>Deployment Link </em><a href="https://phamduylong.github.io/coin_tossing/" target="blank">here</a>
+<em>Try this app </em><a href="https://phamduylong.github.io/coin_tossing/" target="blank">here</a>
